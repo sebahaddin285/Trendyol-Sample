@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mainPageFragment"
+        android:icon="@drawable/baseline_account_balance_24"
+        android:title="Anasayfa" />
+    <item
+        android:id="@+id/goFragment"
+        android:icon="@drawable/baseline_airplanemode_active_24"
+        android:title="Trendyol Go" />
+    <item
+        android:id="@+id/favoriteFragment"
+        android:icon="@drawable/baseline_favorite_24"
+        android:title="Favorilerim" />
+    <item
+        android:id="@+id/basketFragment"
+        android:icon="@drawable/baseline_shopping_basket_24"
+        android:title="Sepetim" />
+    <item
+        android:id="@+id/acountFragment"
+        android:icon="@drawable/baseline_person_24"
+        android:title="Hesabım" />
+</menu>
